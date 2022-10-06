@@ -108,6 +108,7 @@ cout << "Nth Term is: " <<t2<<endl<<endl;
 
 ## Brief About Solutions
 <br>
+
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
