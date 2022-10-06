@@ -98,14 +98,17 @@ cout << "Nth Term is: " <<t2<<endl<<endl;
 ```
 <br/>
 <br/>
+<br/>
+<br/>
 
 
 
-
+## Brief About Solutions
 | Method  | Time Complexity |
 | ------------- | ------------- |
 | 1) Recursion  | 00:00  |
 | 2) Dynamic Programming  | 00:00  |
+| 3) Using .............  | 00:00  |
 
 
 
@@ -116,17 +119,6 @@ cout << "Nth Term is: " <<t2<<endl<<endl;
 <br/>
 <br/>
 
-## Brief About Solutions
-| Solution NO   | Decription | Time Complexity |
-| ------------  | ---------- | --------------- |
-| Solution No_1 | Recursion | 00:00 |
-| Solution No_2 | Dynamic Programming | 00:00 |
-| Solution No_3 | Content cell | 00:00 |
-| Solution No_4 | Content cell | 00:00 |
-| Solution No_5 | Content cell | 00:00 |
-| Solution No_6 | Content cell | 00:00 |
 
-<br/>
-<br/>
 
 #### [*My Github Account*](https://github.com/fadymohsen/fibnacci-series)
