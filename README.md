@@ -6,4 +6,4 @@
 # Different Solutions - Fibonacci Series
 
 ![Fibonacci Series](Fibonacci-series.png) <br/> <br/> <br/> <br/>
-[My Github Account](https://github.com/fadymohsen/fibnacci-series)
+*[My Github Account]*(https://github.com/fadymohsen/fibnacci-series)
