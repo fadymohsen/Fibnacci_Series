@@ -75,7 +75,7 @@ int main(){
 <br/>
 <br/>
 
-### 3) Using ................:-
+### 3) Using ................ :-
 ```
 #include<iostream>
 using namespace std;
