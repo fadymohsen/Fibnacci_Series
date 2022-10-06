@@ -111,8 +111,6 @@ cout << "Nth Term is: " <<t2<<endl<<endl;
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 
 
