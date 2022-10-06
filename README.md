@@ -10,8 +10,12 @@
 
 | Solution No  | Decription | Time Complexity |
 | ------------ | ---------- | --------------- |
-| Content Cel  | Content Ce | Content ---Cell |
-| Content Cel  | Content Ce | Content ---Cell |
+| Solution No_1 | Content Ce | Content ---Cell |
+| Solution No_2 | Content Ce | Content ---Cell |
+| Solution No_3 | Content Ce | Content ---Cell |
+| Solution No_4 | Content Ce | Content ---Cell |
+| Solution No_5 | Content Ce | Content ---Cell |
+| Solution No_6 | Content Ce | Content ---Cell |
 
 <br/>
 <br/>
