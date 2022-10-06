@@ -110,7 +110,7 @@ cout << "Nth Term is: " <<t2<<endl<<endl;
 <br>
 
 | Method  | Time complexity | Space complexity |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
