@@ -93,8 +93,8 @@ int main(){
 ## Brief About Solutions
 | Solution NO   | Decription | Time Complexity |
 | ------------  | ---------- | --------------- |
-| Solution No_1 | Content cell | 00:00 |
-| Solution No_2 | Content cell | 00:00 |
+| Solution No_1 | Recursion | 00:00 |
+| Solution No_2 | Dynamic Programming | 00:00 |
 | Solution No_3 | Content cell | 00:00 |
 | Solution No_4 | Content cell | 00:00 |
 | Solution No_5 | Content cell | 00:00 |
