@@ -32,6 +32,9 @@ int main() {
 }
 ```
 
+<br/>
+<br/>
+<br/>
 
 ## Brief About Solutions
 | Solution NO   | Decription | Time Complexity |
