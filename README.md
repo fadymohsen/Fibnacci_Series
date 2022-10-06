@@ -25,7 +25,7 @@ int fib(int x) {
 
 int main() {
    int x , i=0;
-   cout << "Enter the number of terms of series : ";
+   cout << "Enter the number of terms of series: ";
    cin >> x;
    cout << "\nFibonnaci Series : ";
    
@@ -57,7 +57,7 @@ void fib(int lookup[],int n){
 int main(){
 
     int n;
-    cout<<"Enter n to find the nth number in the Fibonacci Sequence : ";
+    cout << "Enter the number of terms of series: ";
     cin>>n;
 
     int lookup[n+1];
@@ -79,7 +79,7 @@ using namespace std;
 
 int main(){
 int n, t1 = 0, t2 = 1, nextTerm = 0, i;
-cout << "Enter the n value: ";
+cout << "Enter the number of terms of series: ";
 cin >> n;
 
 if(n == 0 || n == 1)
