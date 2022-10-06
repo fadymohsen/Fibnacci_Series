@@ -109,12 +109,12 @@ cout << "Nth Term is: " <<t2<<endl<<endl;
 ## Brief About Solutions
 <br>
 
-| First Header  | Second Header |
+| Method  | Time complexity | Space complexity |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
 
 
 
