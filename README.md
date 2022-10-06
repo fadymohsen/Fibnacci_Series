@@ -10,12 +10,12 @@
 
 | Solution NO   | Decription | Time Complexity |
 | ------------  | ---------- | --------------- |
-| Solution No_1 | Content e | Content -- Cell |
-| Solution No_2 | Content e | Content -- Cell |
-| Solution No_3 | Content e | Content -- Cell |
-| Solution No_4 | Content e | Content -- Cell |
-| Solution No_5 | Content e | Content -- Cell |
-| Solution No_6 | Content e | Content -- Cell |
+| Solution No_1 | Content cell | 00:00 |
+| Solution No_2 | Content cell | 00:00 |
+| Solution No_3 | Content cell | 00:00 |
+| Solution No_4 | Content cell | 00:00 |
+| Solution No_5 | Content cell | 00:00 |
+| Solution No_6 | Content cell | 00:00 |
 
 <br/>
 <br/>
