@@ -111,7 +111,6 @@ cout << "Nth Term is: " <<t2<<endl<<endl;
 | ------------- | ------------- |
 | 1) Recursion  | 00:00  |
 | 2) Dynamic Programming  | 00:00  |
-| 3) Using .............  | 00:00  |
 
 
 
