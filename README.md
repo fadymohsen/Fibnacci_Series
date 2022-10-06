@@ -102,7 +102,10 @@ cout << "Nth Term is: " <<t2<<endl<<endl;
 
 
 
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 
