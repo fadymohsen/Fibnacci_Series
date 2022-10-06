@@ -5,13 +5,16 @@
 
 # Different Solutions - Fibonacci Series
 ![Fibonacci Series](Fibonacci-series.png) <br/> <br/> <br/> <br/>
+<br/>
+<br/>
+<br/>
 
 
-
-
+### 1) Using Recursion:-
 ```
 #include <iostream>
 using namespace std;
+
 int fib(int x) {
    if((x==1)||(x==0)) {
       return(x);
@@ -19,11 +22,13 @@ int fib(int x) {
       return(fib(x-1)+fib(x-2));
    }
 }
+
 int main() {
    int x , i=0;
    cout << "Enter the number of terms of series : ";
    cin >> x;
    cout << "\nFibonnaci Series : ";
+   
    while(i < x) {
       cout << " " << fib(i);
       i++;
@@ -31,6 +36,55 @@ int main() {
    return 0;
 }
 ```
+<br/>
+<br/>
+
+
+
+### 2) Using Dynamic Programming:-
+```
+#include <iostream>
+using namespace std;
+
+
+void fib(int lookup[],int n){
+    for(int i=2;i<=n;i++){
+        lookup[i]=lookup[i-1]+lookup[i-2];
+    }
+}
+
+
+int main(){
+
+    int n;
+    cout<<"Enter n to find the nth number in the Fibonacci Sequence : ";
+    cin>>n;
+
+    int lookup[n+1];
+    lookup[0]=0;
+    lookup[1]=1;
+    fib(lookup,n);
+
+    cout<<"The nth integer in the Fibonacci Sequence = ";
+    cout<<lookup[n]<<endl;
+}
+```
+<br/>
+<br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br/>
 <br/>
