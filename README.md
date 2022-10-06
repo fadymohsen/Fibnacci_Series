@@ -107,12 +107,12 @@ cout << "Nth Term is: " <<t2<<endl<<endl;
 
 
 ## Brief About Solutions
-| Method  | Time Complexity |
+| First Header  | Second Header |
 | ------------- | ------------- |
-| 1) Recursion  | 00:00  |
-| 2) Dynamic Programming  | 00:00  |
-
-
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 
