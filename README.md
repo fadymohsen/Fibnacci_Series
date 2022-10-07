@@ -143,10 +143,10 @@ int main(){
 
 | Method  | Time complexity | Space complexity | Notes |
 | ------------- | ------------- | ------------- | ------------- |
-| Recursion  | T(2^N), i.e., exponential  | O(N)  | ------------- |
-| Dynamic Programming  | T(N), i.e., linear  | O(N)  | ------------- |
-| Space Optimized Method  | T(N) i.e., linear | By DP is O(1)  | We have to find the sum of two terms, and it is repeated n times depending on the value of n |
-| Memoization | O(n) making calls for value from 1 to n only once | O(n) using an array to store values of recursive calls  | ------------- |
+| Recursion  | **T(2^N)**, i.e., exponential  | **O(N)**  | ------------- |
+| Dynamic Programming  | **T(N)**, i.e., linear  | **O(N)**  | ------------- |
+| Space Optimized Method  | **T(N)** i.e., linear | By DP is **O(1)**  | We have to find the sum of two terms, and it is repeated n times depending on the value of n |
+| Memoization | **O(n)** making calls for value from 1 to n only once | **O(n)** using an array to store values of recursive calls  | ------------- |
 
 
 
