@@ -13,7 +13,7 @@
 <br/>
 
 
-### 1) Using Recursion:-
+#### 1) Using Recursion:-
 ```
 #include <iostream>
 using namespace std;
@@ -44,7 +44,7 @@ int main() {
 
 
 
-### 2) Using Dynamic Programming:-
+#### 2) Using Dynamic Programming:-
 ```
 #include <iostream>
 using namespace std;
@@ -75,7 +75,7 @@ int main(){
 <br/>
 <br/>
 
-### 3) Using ................ :-
+#### 3) Using Space Optimized Method:-
 ```
 #include<iostream>
 using namespace std;
@@ -109,12 +109,12 @@ cout << "Nth Term is: " <<t2<<endl<<endl;
 ## Brief About Solutions
 <br>
 
-| Method  | Time complexity | Space complexity |
-| ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| Method  | Time complexity | Space complexity | Notes |
+| ------------- | ------------- | ------------- | ------------- |
+| Recursion  | T(2^N), i.e., exponential  | O(N)  | ------------- |
+| Dynamic Programming  | T(N), i.e., linear  | O(N)  | ------------- |
+| Space Optimized Method  | T(N) i.e., linear | By DP is O(1)  | We have to find the sum of two terms, and it is repeated n times depending on the value of n |
+| Content Cell  | Content Cell  | Content Cell  | ------------- |
 
 
 
