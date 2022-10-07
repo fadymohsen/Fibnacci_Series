@@ -12,6 +12,15 @@
 <br/>
 <br/>
 
+## Fibonacci Series Methods
+- Recursion
+- Dynamic Programming
+- Space Optimized Method
+- Formula
+<br/>
+<br/>
+
+
 
 #### 1) Using Recursion:-
 ```
@@ -119,7 +128,7 @@ int main (){
 }
 ```
 <br/>
-<bt/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -128,7 +137,6 @@ int main (){
 
 
 ## Brief About Solutions
-<br>
 
 | Method  | Time complexity | Space complexity |
 | ------------- | ------------- | ------------- |
