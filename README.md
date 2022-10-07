@@ -100,6 +100,35 @@ cout << "Nth Term is: " <<t2<<endl<<endl;
 }
 ```
 <br/>
+<bt/>
+
+#### 4) Using Memoization:-
+```
+#include <iostream>
+using namespace std;
+#define N 1000
+int dp[N];
+int fibonacci(int n){
+    // we will make a call if an element in array dp is -1
+    if(dp[n]==-1){   
+        if(n<=1){
+            dp[n]=n;
+        }else{
+            //call to n-1  and n-2
+            dp[n]=fibonacci(n-1)+fibonacci(n-2);
+        }
+    }
+    return dp[n];
+}
+
+int main(){
+   int n;
+   n=10;
+   // initializing values of an array to -1
+   memset(dp,-1,sizeof(dp));
+   cout<<fibonacci(n);
+}
+<br/>
 <br/>
 <br/>
 <br/>
@@ -114,8 +143,7 @@ cout << "Nth Term is: " <<t2<<endl<<endl;
 | Recursion  | T(2^N), i.e., exponential  | O(N)  | ------------- |
 | Dynamic Programming  | T(N), i.e., linear  | O(N)  | ------------- |
 | Space Optimized Method  | T(N) i.e., linear | By DP is O(1)  | We have to find the sum of two terms, and it is repeated n times depending on the value of n |
-| Content Cell  | Content Cell  | Content Cell  | ------------- |
-
+| Memoization | O(n) making calls for value from 1 to n only once | O(n) using an array to store values of recursive calls  | ------------- |
 
 
 
