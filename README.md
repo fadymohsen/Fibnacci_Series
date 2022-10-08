@@ -25,7 +25,7 @@
 
 
 ### 1) Using Recursion:-
-```
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -56,7 +56,7 @@ int main() {
 
 
 ### 2) Using Dynamic Programming:-
-```
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -87,7 +87,7 @@ int main(){
 <br/>
 
 ### 3) Using Space Optimized Method:-
-```
+```cpp
 #include<iostream>
 using namespace std;
 
@@ -114,7 +114,7 @@ cout << "Nth Term is: " <<t2<<endl<<endl;
 <bt/>
 
 ### 4) Using Formula:-
-```
+```cpp
 #include <iostream>
 using namespace std;
 
